@@ -1,8 +1,35 @@
-# React + Vite
+ 
+# Project Name
+    React-Portfolio
+    
+## License
+    MIT License
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Table of Contents
+- [Description](#description)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [Tests](#tests)
+- [Questions](#questions)
 
-Currently, two official plugins are available:
+## Description 
+    Single page professional portfolio using React
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Installation
+    Download the code using the Github repository link
+
+## Usage
+    This SPA features current and past projects worked on by Jerald Whitley
+
+## Contributing
+    Jerald Whitley
+
+## Tests
+    N/A
+
+## Questions
+    If you have any questions, please feel free to contact me!
+    Github Username: jeraldwhitley
+    Github Homepage: https://github.com/jeraldwhitley
+    Email: jlwj2468@gmail.com
